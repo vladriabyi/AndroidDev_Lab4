@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaPlayerPro</string>
+    <string name="select_file">Select File</string>
+    <string name="load_from_url">Load from URL</string>
+    <string name="create_playlist">Create New Playlist</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_playlist">Select Playlist</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
